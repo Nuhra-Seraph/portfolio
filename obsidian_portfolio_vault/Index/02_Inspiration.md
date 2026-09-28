@@ -10,9 +10,9 @@ With all great artistry, there is inspiration. Below will be a list of things th
 	- Francisco Goya
 	- Marco Grassi
 - Developers
+    - Mischa van den Burg
 	- ThePrimeTime
 	- Gazi
-	- Mischa van den Burg
 - Other YT
 	- JayzTwoCents
 	- TechSource
